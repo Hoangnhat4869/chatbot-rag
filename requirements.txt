@@ -1,0 +1,10 @@
+langchain
+langchain-community
+python-dotenv
+streamlit
+openai
+faiss-cpu
+altair
+tiktoken
+langchain-google-genai
+google-generativeai
